@@ -9,7 +9,7 @@ body {
 	padding: 24px;
 }
 head {
-	font-family: 'Roboto';
+	font-family: 'Roboto', sans-serif;
 	text-align: center;
 }
 h1 {
@@ -20,7 +20,7 @@ h1 {
   color: gray;
 }
 div {
-	font-family:'Roboto';
+	font-family:'Roboto', sans-serif;
 	padding-top: 10px;
 	text-align: 'center';
   	padding: 16px;
@@ -29,11 +29,11 @@ h3 {
   padding-left: 150px;
   padding-right: 150px;
   color: gray;
-  font-family:  'Roboto';
+  font-family:  'Roboto', sans-serif;
 }
 .heading {
   text-align: left;
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
   text-decoration: underline;
   padding-top: 10%;
   display: inline-block;
@@ -43,7 +43,7 @@ h3 {
   font-size: 25px;
 }
 .info {
-  font-family:  'Roboto';
+  font-family:  'Roboto', sans-serif;
   padding-top: 9%;
   display: inline-block;
   float:  left;
