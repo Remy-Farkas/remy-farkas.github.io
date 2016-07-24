@@ -24,7 +24,7 @@ div {
   padding: 16px;
 }
 h3 {
-  padding-left: 150px;
-  Padding-right: 150px;
+  padding-left: 150%;
+  padding-right: 150%;
   color: gray;
 }
