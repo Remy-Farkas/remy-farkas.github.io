@@ -29,7 +29,7 @@ h3 {
   padding-left: 150px;
   padding-right: 150px;
   color: gray;
-  font-family:  'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .heading {
   text-align: left;
@@ -43,7 +43,7 @@ h3 {
   font-size: 25px;
 }
 .info {
-  font-family:  'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
   padding-top: 9%;
   display: inline-block;
   float:  left;
