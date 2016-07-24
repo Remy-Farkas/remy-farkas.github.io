@@ -1,25 +1,54 @@
 h2 {
 	text-align: center;
-	font-family: Gotham;
+	font-family: 'Fjalla One', sans-serif;
 	font-weight: 350;
 	font-size: 18px;
 	margin-bottom: 40px;
-  color: #8ee5ee;
 }
 body {
 	padding: 24px
 }
 head {
-	font-family:'Gotham', sans-serif;
+	font-family: Roboto;
 	text-align: center;
 }
 h1 {
-	font-family:'Gotham', sans-serif;
 	text-align: center;
+  font-family: 'Fjalla One', sans-serif;
+  font-weight: 100;
+  font-size:  48px;
+  color: gray;
 }
 div {
 	font-family:'verdana';
 	padding-top: 10px;
 	text-align: 'center';
-  	padding: 16px;
+  padding: 16px;
+}
+h3 {
+  padding-left: 150px;
+  Padding-right: 150px;
+  color: gray;
+  font-family:  Roboto;
+}
+.heading {
+  text-align: left;
+  font-family: Roboto;
+  text-decoration: underline;
+  padding-top: 10%;
+  display: inline-block;
+  float: left;
+  padding-left:  18%;
+  color: gray;
+  font-size: 25px;
+}
+.info {
+  font-family:  Roboto;
+  padding-top: 9%;
+  display: inline-block;
+  float:  left;
+  color:  gray;
+  text-align:  center;
+  padding-left: 3%;
+  font-size: 20px;
 }
