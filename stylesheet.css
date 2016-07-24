@@ -35,15 +35,24 @@ h3 {
   text-align: left;
   font-family: 'Roboto', sans-serif;
   text-decoration: underline;
-  padding-top: 0%;
+  padding-top: 2%;
   display: inline-block;
   float: left;
   padding-left:  18%;
   color: gray;
   font-size: 25px;
-  font-stretch: ultra-condensed;
 }
 .info {
+  font-family: 'Roboto', sans-serif;
+  padding-top: 0%;
+  display: inline-block;
+  float:  left;
+  color:  gray;
+  text-align:  center;
+  padding-left: 3%;
+  font-size: 20px;
+}
+.information {
   font-family: 'Roboto', sans-serif;
   padding-top: 0%;
   display: inline-block;
