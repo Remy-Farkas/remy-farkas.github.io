@@ -70,7 +70,7 @@ h3 {
 }
 .feature {
   font-family: 'Roboto', sans-serif;
-  padding-top: -1%;
+  padding-top: -3%;
   display: inline-block;
   float:  left;
   color:  gray;
@@ -80,7 +80,7 @@ h3 {
 }
 .report {
   font-family: 'Roboto', sans-serif;
-  padding-top: -1%;
+  padding-top: -3%;
   display: inline-block;
   float:  left;
   color:  gray;
