@@ -68,3 +68,23 @@ h3 {
 #bullets {
   text-align: left;
 }
+.feature {
+  font-family: 'Roboto', sans-serif;
+  padding-top: 0%;
+  display: inline-block;
+  float:  left;
+  color:  gray;
+  text-align:  center;
+  padding-left: 35%;
+  font-size: 20px;
+}
+.report {
+  font-family: 'Roboto', sans-serif;
+  padding-top: 0%;
+  display: inline-block;
+  float:  left;
+  color:  gray;
+  text-align:  center;
+  padding-left: 35%;
+  font-size: 20px;
+}
