@@ -44,22 +44,32 @@ h3 {
 }
 .info {
   font-family: 'Roboto', sans-serif;
-  padding-top: 0%;
   display: inline-block;
   float:  left;
   color:  gray;
   text-align:  center;
-  padding-left: 3%;
+  padding-left: 1%;
   font-size: 20px;
+}
+.head {
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: underline;
+  padding-top: 15%;
+  display: inline-block;
+  float: left;
+  margin-left: -45%;
+  color: gray;
+  font-size: 25px;
 }
 .information {
   font-family: 'Roboto', sans-serif;
-  padding-top: -10%;
+  margin-top: -5.5%;
   display: inline-block;
   float:  left;
   color:  gray;
   text-align:  center;
-  padding-left: 35%;
+  padding-left: 30%;
   font-size: 20px;
 }
 #place {
@@ -70,21 +80,61 @@ h3 {
 }
 .feature {
   font-family: 'Roboto', sans-serif;
-  padding-top: -10%;
+  margin-top: -3%;
   display: inline-block;
-  float:  left;
-  color:  gray;
+  float: left;
+  color: gray;
   text-align:  center;
-  padding-left: 36%;
+  padding-left: 30%;
   font-size: 20px;
 }
 .report {
   font-family: 'Roboto', sans-serif;
-  padding-top: -10%;
+  margin-top: -3%;
   display: inline-block;
-  float:  left;
-  color:  gray;
+  float: left;
+  color: gray;
   text-align:  center;
-  padding-left: 36%;
+  padding-left: 30%;
+  font-size: 20px;
+}
+.leadership {
+  font-family: 'Roboto', sans-serif;
+  margin-top: 1%;
+  display: inline-block;
+  float: left;
+  color: gray;
+  text-align: center;
+  padding-left: 5.5%;
+  font-size: 20px;
+}
+.coding {
+  font-family: 'Roboto', sans-serif;
+  margin-top: 17%;
+  display: inline-block;
+  float: left;
+  color: gray;
+  text-align: center;
+  margin-left: -45.5%;
+  font-size: 20px;
+}
+.design {
+  font-family: 'Roboto', sans-serif;
+  margin-top: 26%;
+  display: inline-block;
+  float: left;
+  color: gray;
+  text-align: center;
+  margin-left: -45.5%;
+  font-size: 20px;
+}
+.dstp {
+  font-family: 'Roboto', sans-serif;
+  margin-top: 37%;
+  display: inline-block;
+  float: left;
+  color: gray;
+  text-align:  center;
+  margin-left: -45.5%;
   font-size: 20px;
 }
