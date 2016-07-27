@@ -111,7 +111,7 @@ h3 {
 }
 .coding {
   font-family: 'Roboto', sans-serif;
-  margin-top: 0px;
+  margin-top: -40px;
   display: inline-block;
   float: left;
   color: gray;
@@ -136,6 +136,6 @@ h3 {
   float: left;
   color: gray;
   text-align:  center;
-  margin-left: -337px;
+  margin-left: -290px;
   font-size: 20px;
 }
