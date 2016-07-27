@@ -121,7 +121,7 @@ h3 {
 }
 .design {
   font-family: 'Roboto', sans-serif;
-  margin-top: 60px;
+  margin-top: 65px;
   display: inline-block;
   float: left;
   color: gray;
@@ -131,11 +131,11 @@ h3 {
 }
 .dstp {
   font-family: 'Roboto', sans-serif;
-  margin-top: 230px;
+  margin-top: 200px;
   display: inline-block;
   float: left;
   color: gray;
   text-align:  center;
-  margin-left: -290px;
+  margin-left: -250px;
   font-size: 20px;
 }
