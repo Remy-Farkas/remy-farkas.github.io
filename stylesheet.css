@@ -3,6 +3,8 @@ img {
   margin-right: auto;
   margin-left: 375px;
   border-radius: 50%;
+  height:300px
+  weight:300px;
 }
 h2 {
 	text-align: center;
