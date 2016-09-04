@@ -11,8 +11,13 @@ h1 {
 }
 h3 {
 	color: gray;
-	font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
 h4 {
-	color: gray;
-	font-family: 'Roboto', sans-serif;	
+  color:gray;
+  font-family: 'Roboto', sans-serif;
+}
+ul {
+  color:gray;
+  font-family: 'Roboto', sans-serif;
 }
