@@ -13,7 +13,7 @@ h3 {
 	color: gray;
   	font-family: 'Roboto', sans-serif;
 }
-.family {
+.bullets {
   font-family: 'Roboto', sans-serif;
   margin-top: 1%;
   display: inline-block;
@@ -23,7 +23,7 @@ h3 {
   margin-left: 69px;
   font-size: 20px;
 }
-.loves{
+.head{
 	font-family: 'Roboto', sans-serif;
 	color: gray;
 }
