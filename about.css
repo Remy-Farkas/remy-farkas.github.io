@@ -14,8 +14,14 @@ h3 {
   	font-family: 'Roboto', sans-serif;
 }
 .family {
-	font-family: 'Roboto', sans-serif;
-	color: gray;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 1%;
+  display: inline-block;
+  float: left;
+  color: gray;
+  text-align: center;
+  margin-left: 69px;
+  font-size: 20px;
 }
 .loves{
 	font-family: 'Roboto', sans-serif;
