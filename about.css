@@ -13,12 +13,12 @@ h3 {
 	color: gray;
   	font-family: 'Roboto', sans-serif;
 }
-.bullets {
-  font-family: 'Roboto', sans-serif;
-  color: gray;
-}
-.head{
+.heading{
 	font-family: 'Roboto', sans-serif;
 	color: gray;
 	font-size: 25px;
+}
+.bullets {
+  font-family: 'Roboto', sans-serif;
+  color: gray;
 }
