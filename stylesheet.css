@@ -20,7 +20,8 @@ head {
 	font-family: 'Roboto', sans-serif;
 	text-align: center;
 	padding-left: -180%;
-	margin-rigth: 700px;
+	margin-right: 700px;
+	padding-right: 300px;
 }
 h1 {
 	text-align: center;
