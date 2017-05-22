@@ -19,9 +19,9 @@ h3 {
 	font-size: 25px;
 	padding-right: 20%;
 }
-.bullets{
-	color: gray;
+.bullet{
 	font-family: 'Roboto', sans-serif;
-	padding-right: 70px;
+	color: gray;
+	padding-right: 60%;
 	font-size: 17px;
 }
